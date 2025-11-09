@@ -471,5 +471,3 @@ News Gamma demonstrerar moderna webbutvecklingstekniker med:
 - **SEO-optimering** med dynamiska routes och metadata
 
 Tack för att du använder News Gamma!
-#   d a g e n s - d o s  
- 
