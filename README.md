@@ -1,4 +1,4 @@
-# 📰 Dagens Dos
+#  Dagens Dos
 
 <p align="center">
   <img src="./public/mockup-dagensdos.jpg" alt="Mockup - Dagens Dos" width="700">
@@ -10,7 +10,7 @@ Projektet är utvecklat som ett grupparbete av **Josefine, Johan, Magui och Ahme
 
 ---
 
-## 📚 Innehållsförteckning
+##  Innehållsförteckning
 
 - [Översikt](#översikt)
 - [Teknikstack](#teknikstack)
@@ -28,12 +28,12 @@ Projektet är utvecklat som ett grupparbete av **Josefine, Johan, Magui och Ahme
 
 ---
 
-## 🧭 Översikt
+##  Översikt
 
 **News Gamma** är en fullstack-nyhetsapplikation med fokus på **prestanda**, **typesäkerhet** och **skalbarhet**.  
 Projektet demonstrerar moderna webbutvecklingstekniker med **server-first arkitektur**, **AI-integration** och **användarhantering**.
 
-### 🔑 Huvudfunktioner
+###  Huvudfunktioner
 
 - Responsiv design med Dark/Light mode  
 - Säker autentisering med e-postverifiering  
@@ -51,7 +51,7 @@ Projektet demonstrerar moderna webbutvecklingstekniker med **server-first arkite
 
 ---
 
-## ⚙️ Teknikstack
+##  Teknikstack
 
 ### Frontend
 - **Next.js 15.5.4** (App Router, Turbopack)
@@ -79,7 +79,7 @@ Projektet demonstrerar moderna webbutvecklingstekniker med **server-first arkite
 
 ---
 
-## 👥 Teammedlemmar och Bidrag
+##  Teammedlemmar och Bidrag
 
 ### **Magui – Backend & Betalningar**
 - CRUD för artiklar & kategorier  
@@ -110,7 +110,7 @@ Projektet demonstrerar moderna webbutvecklingstekniker med **server-first arkite
 
 ---
 
-## 🧩 Förutsättningar
+##  Förutsättningar
 
 - **Node.js 18+**
 - **npm / pnpm / yarn**
@@ -120,7 +120,7 @@ Projektet demonstrerar moderna webbutvecklingstekniker med **server-first arkite
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # 1. Klona repo
